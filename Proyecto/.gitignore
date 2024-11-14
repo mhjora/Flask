@@ -1,0 +1,21 @@
+__pycache__ /
+.env
+.flaskenv
+* .pyc
+* .pyo
+env /
+venv /
+.venv /
+env *
+distribución /
+construir /
+* .huevo
+* .egg-info /
+_lista de correo
+.cache /
+.pytest_cache /
+.idea /
+documentos / _build
+.vscode
+.código-espacio de trabajo
+ 20 cambios: 20 adiciones y 0 eliminaciones20 
